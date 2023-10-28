@@ -7,7 +7,7 @@ DevOps Engineer
 works with developers and the IT staff to oversee the code releases, combining an understanding of both engineering and coding
 
 * 🌍  I'm based in Egypt
-* 🚀  I'm currently working on [K8s](http://abuhamda.site)
+* 🚀  I'm currently working on [AWS](https://amazon.com)
 * 🧠  I'm Working as a DevOps
 * 🤝  I'm open to collaborating on Any DevOps Project
 
