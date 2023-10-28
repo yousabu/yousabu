@@ -1,14 +1,14 @@
-Hi 👋 My name is Youssef Abu\_hamda
+Hi 👋 My name is Youssef Abuhamda
 ===================================
 
-DevOps ENG
+DevOps Engineer
 ----------
 
 works with developers and the IT staff to oversee the code releases, combining an understanding of both engineering and coding
 
 * 🌍  I'm based in Egypt
 * 🚀  I'm currently working on [K8s](http://abuhamda.site)
-* 🧠  I'm learning Devops
+* 🧠  I'm Working as a DevOps
 * 🤝  I'm open to collaborating on Any DevOps Project
 
 ### Skills
