@@ -1,7 +1,7 @@
 Hi 👋 My name is Youssef Abuhamda
 ===================================
 
-DevOps Engineer
+SRE/DevOps Engineer
 ----------
 
 works with developers and the IT staff to oversee the code releases, combining an understanding of both engineering and coding
